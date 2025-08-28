@@ -1,4 +1,4 @@
-def call(Number a, Number b, String operation) {
+def calculator(Number a, Number b, String operation) {
     switch(operation.toLowerCase()) {
         case "add":
         case "+":
